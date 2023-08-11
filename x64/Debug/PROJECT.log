@@ -1,0 +1,13 @@
+﻿  app.c
+C:\Embeded system\PROJECT\APPLICATION\app.c(14,22): warning C4098: 'appStart': 'void' function returning a value
+C:\Embeded system\PROJECT\APPLICATION\app.c(18,26): warning C4098: 'appStart': 'void' function returning a value
+C:\Embeded system\PROJECT\APPLICATION\app.c(22,21): warning C4098: 'appStart': 'void' function returning a value
+C:\Embeded system\PROJECT\APPLICATION\app.c(36,20): warning C4098: 'appStart': 'void' function returning a value
+C:\Embeded system\PROJECT\APPLICATION\app.c(42,22): warning C4098: 'appStart': 'void' function returning a value
+C:\Embeded system\PROJECT\APPLICATION\app.c(50,28): warning C4098: 'appStart': 'void' function returning a value
+C:\Embeded system\PROJECT\APPLICATION\app.c(54,25): warning C4098: 'appStart': 'void' function returning a value
+C:\Embeded system\PROJECT\APPLICATION\app.c(60,27): warning C4098: 'appStart': 'void' function returning a value
+C:\Embeded system\PROJECT\APPLICATION\app.c(75,27): warning C4098: 'appStart': 'void' function returning a value
+C:\Embeded system\PROJECT\APPLICATION\app.c(80,25): warning C4098: 'appStart': 'void' function returning a value
+C:\Embeded system\PROJECT\APPLICATION\app.c(86,21): warning C4098: 'appStart': 'void' function returning a value
+  PROJECT.vcxproj -> C:\Embeded system\PROJECT\x64\Debug\PROJECT.exe
